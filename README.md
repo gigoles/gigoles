@@ -1,4 +1,4 @@
-## Hi there, Im Tamaina 💃
+## Hi there, I'm Tamaina 💃
 
 
  🎓 Just completed my bachelors degree in Information technology<br/>
