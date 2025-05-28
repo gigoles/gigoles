@@ -2,7 +2,7 @@
 
 
  🎓 Just completed my bachelors degree in Information technology<br/>
- 👩‍💻 I’m currently a white collar dev hitting 5yrs in software development<br/>
+ 👩‍💻 I’m currently a dev hitting 5yrs in software development<br/>
  📚 I’m currently learning game development! <br/>
  👯 I’m looking to atleast submit a leetcode question everyday to stay consistent<br/>
  🙈 I’m looking for help with getting into big tech<br/>
